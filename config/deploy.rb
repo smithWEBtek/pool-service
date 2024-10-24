@@ -1,7 +1,7 @@
 # config valid only for current version of Capistrano
 lock "3.7.2"
 
-set :application, "pool-service"
+set :application, "my_app_name"
 set :repo_url, "git@github.com:smithwebtek/pool-service.git"
 
 # Default branch is :master
