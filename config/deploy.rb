@@ -1,5 +1,5 @@
 # config valid only for current version of Capistrano
-lock "3.7.2"
+lock "3.19.1"
 
 set :application, "pool-service"
 set :repo_url, "git@github.com:smithwebtek/pool-service.git"
