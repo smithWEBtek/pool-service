@@ -6,7 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 ruby "2.7.1"
-gem "rails", "5.2.8.1"
+gem "rails", "5.2.0"
 
 gem "yajl-ruby", "< 1.3.1"
 gem "psych", "~> 3.1.0"
