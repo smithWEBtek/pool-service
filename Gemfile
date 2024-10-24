@@ -37,6 +37,7 @@ gem 'capistrano', '~> 3.7.2'
 gem 'capistrano-rvm'
 gem 'ed25519'
 gem 'bcrypt_pbkdf'
+gem 'standard'
 
 group :development, :test do
   # gem 'byebug', platform: :mri
